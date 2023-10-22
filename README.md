@@ -1,1 +1,1 @@
-# Porjekt Vue.js pokazujący użycie PokeAPI
+# Projekt Vue.js pokazujący użycie PokeAPI
